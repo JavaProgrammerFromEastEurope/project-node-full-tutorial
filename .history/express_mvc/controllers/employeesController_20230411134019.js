@@ -1,0 +1,3 @@
+const data = {
+	employees: require
+}

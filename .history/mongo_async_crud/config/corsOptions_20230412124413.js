@@ -1,0 +1,1 @@
+const allowoedOrigins = require('./allowedOrigins');

@@ -1,0 +1,3 @@
+cosnt verifyRoles = (...allowedRoles) => {
+	return ()
+}

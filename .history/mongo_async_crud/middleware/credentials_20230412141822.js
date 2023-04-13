@@ -1,0 +1,1 @@
+const allowedOrigins = required('../config/allowedOrigins.js')
